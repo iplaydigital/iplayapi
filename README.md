@@ -1,2 +1,2 @@
-# iplayapi
-standard for resapi php 7.4++
+# PHP REST API 
+Standard 8.2++
